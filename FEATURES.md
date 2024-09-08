@@ -43,10 +43,11 @@
 7. Item Wise Sales
 8. Customer Data
 9. Repeated Customers
-10. Employee Sales
-11. Employee Item Wise Sales
-12. Service Wise Sales
-13. Time Wise Sales
+10. Daywise Customer Details
+11. Employee Sales
+12. Employee Item Wise Sales
+13. Service Wise Sales
+14. Time Wise Sales
   
 
 ### Customizable Branch Timings: 

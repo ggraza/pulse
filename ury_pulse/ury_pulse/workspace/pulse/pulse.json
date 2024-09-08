@@ -45,7 +45,7 @@
    "hidden": 0,
    "is_query_report": 0,
    "label": "URY Reports",
-   "link_count": 13,
+   "link_count": 14,
    "link_type": "DocType",
    "onboard": 0,
    "type": "Card Break"
@@ -143,6 +143,16 @@
   {
    "hidden": 0,
    "is_query_report": 1,
+   "label": "Daywise Customer Details",
+   "link_count": 0,
+   "link_to": "Daywise Customer Details",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
    "label": "Employee Sales",
    "link_count": 0,
    "link_to": "Employee Sales",
@@ -181,7 +191,7 @@
    "type": "Link"
   }
  ],
- "modified": "2024-02-12 18:15:38.220508",
+ "modified": "2024-09-08 13:44:14.749910",
  "modified_by": "Administrator",
  "module": "URY Pulse",
  "name": "Pulse",

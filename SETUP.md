@@ -4,7 +4,7 @@ Follow these steps to set up URY Pulse after completing basic ERPNext configurat
 
 #### Step 1 : 
 
-- Complete all the steps outlined in the [URY Setup](https://github.com/ury-erp/ury/blob/main/SETUP.md)
+- Complete all the steps outlined in the [URY Setup](https://github.com/ury-erp/ury/blob/develop/SETUP.md)
 
 #### Step 2:
 
